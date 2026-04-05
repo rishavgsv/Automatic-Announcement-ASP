@@ -76,6 +76,8 @@ streamlit run streamlit_app.py
 
 <h2>👨‍💻 Author</h2>
 <p>
+Abhinav Kesarwani<br>
+<a href="https://www.linkedin.com/in/abhinav-kesarwani/">🔗 LinkedIn</a>
 Rishav Kumar<br>
 <a href="https://www.linkedin.com/in/rishav-kumar-2399241ab/">🔗 LinkedIn</a>
 </p>
