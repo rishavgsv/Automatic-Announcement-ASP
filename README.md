@@ -1,25 +1,39 @@
-<h1>Automatic Announcement Quality Analyzer</h1>
+<h1>🚆 Automatic Announcement Quality Analyzer</h1>
 
 <p>
 AI-powered system to analyze and evaluate the quality of public/railway announcements.
 </p>
 
-<h2>Overview</h2>
 <p>
-This project uses audio processing and machine learning to evaluate announcement clarity and quality.
+🌐 <b>Live Demo:</b> 
+<a href="https://automatic-announcement-asp-atpyjznqb5c5zta5j8ckzw.streamlit.app/" target="_blank">
+👉 Click Here to Try the App
+</a>
 </p>
 
-<h2>Features</h2>
+<hr>
+
+<h2>🚀 Overview</h2>
+<p>
+This project uses audio processing and machine learning to evaluate announcement clarity and quality.
+Designed for real-world railway/public transport systems.
+</p>
+
+<hr>
+
+<h2>🧠 Features</h2>
 <ul>
-<li>Audio preprocessing</li>
-<li>Feature extraction (MFCC, spectral features)</li>
-<li>Machine learning classification</li>
-<li>Speech transcription</li>
-<li>Quality score generation</li>
-<li>Streamlit UI</li>
+<li>🎧 Audio preprocessing</li>
+<li>📊 Feature extraction (MFCC, spectral features)</li>
+<li>🤖 Machine learning classification</li>
+<li>🗣️ Speech transcription</li>
+<li>📈 Quality score generation</li>
+<li>🌐 Streamlit web application</li>
 </ul>
 
-<h2>Project Structure</h2>
+<hr>
+
+<h2>🏗️ Project Structure</h2>
 <pre>
 src/
 app.py
@@ -31,20 +45,42 @@ model.pkl
 requirements.txt
 </pre>
 
-<h2>Installation</h2>
+<hr>
+
+<h2>⚙️ Installation</h2>
 <pre>
 git clone https://github.com/rishavgsv/Automatic-Announcement-ASP.git
 cd Automatic-Announcement-ASP
 pip install -r requirements.txt
 </pre>
 
-<h2>Run</h2>
+<hr>
+
+<h2>▶️ Run Locally</h2>
 <pre>
 streamlit run streamlit_app.py
 </pre>
 
-<h2>Author</h2>
+<hr>
+
+<h2>🛠️ Tech Stack</h2>
+<ul>
+<li>🐍 Python</li>
+<li>🎵 Librosa</li>
+<li>🤖 Scikit-learn</li>
+<li>🧠 Whisper</li>
+<li>🌐 Streamlit</li>
+</ul>
+
+<hr>
+
+<h2>👨‍💻 Author</h2>
 <p>
 Rishav Kumar<br>
-<a href="https://www.linkedin.com/in/rishav-kumar-2399241ab/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/rishav-kumar-2399241ab/">🔗 LinkedIn</a>
 </p>
+
+<hr>
+
+<h2>⭐ Support</h2>
+<p>If you like this project, give it a ⭐ on GitHub!</p>
