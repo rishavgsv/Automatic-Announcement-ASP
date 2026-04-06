@@ -1,7 +1,7 @@
 <h1>🚆 Automatic Announcement Quality Analyzer</h1>
 
 <p>
-AI-powered system to analyze and evaluate the quality of public/railway announcements.
+AI-powered system to analyze and evaluate the quality of public/railway announcement.
 </p>
 
 <p>
